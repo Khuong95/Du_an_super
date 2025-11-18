@@ -38,7 +38,7 @@ const ChatbotPopup: React.FC = () => {
         </header>
         <div className="flex-grow">
           <iframe
-            src="https://goisinhcuadongdeep.netlify.app/"
+            src="https://goisinhcuadongpro.netlify.app/"
             title="Chatbot tư vấn"
             className="w-full h-full border-0"
             allow="microphone"
